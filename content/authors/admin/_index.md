@@ -47,7 +47,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YouweiWANG3
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=OsLclFkAAAAJ&hl=en
 - icon: github
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Youwei Wang is currently a PhD candidate at the Delft University of Technology, with his defence expected to be held in October 2021. His main interests lie in astronomically controlled fluvial sedimentology and stratigraphy using numerical modelling and outcrop analogue. His have extended interests into both upstream catchment modelling (landscape evolution models) and downstream detalic/shallow marine environments.
+Youwei Wang is currently a PhD candidate at the Delft University of Technology, with his defence expected to be held in October 2021. His main interests lie in astronomically controlled fluvial sedimentology and stratigraphy based on numerical modelling and outcrop analogue. His have extended interests into both upstream catchment modelling and downstream detalic/shallow marine environments.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
