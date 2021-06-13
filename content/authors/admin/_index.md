@@ -47,7 +47,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YouweiWANG3
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=OsLclFkAAAAJ&hl=en
 - icon: github
