@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Youwei Wang
+title: Youwei Wang 王友伟
 
 # Is this the primary user of the site?
 superuser: true
