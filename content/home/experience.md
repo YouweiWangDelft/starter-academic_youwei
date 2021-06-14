@@ -22,20 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
+  - title: PhD Researcher
     company: Delft University of Technology
     company_url: 'www.tudelft.nl'
-    company_logo: TU_Delft
+    company_logo: tu-delft-2
     location: Netherlands
     date_start: '2021-06-01'
     date_end: '2021-12-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing core and log intervals containing PETM
+        * Analysing core and log intervals containing Paleocene-Eocene Thermal Maximum (PETM)
         * Modelling alluvial response to PETM
         * Providing exploration advice on well deployment
         
+
+  - title: PhD student
+    company: Delft University of Technology
+    company_url: 'www.tudelft.nl'
+    company_logo: tu-delft-2
+    location: Netherlands
+    date_start: '2016-09-01'
+    date_end: '2021-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Evaluating alluvial stratigraphic response to upstream forcing through process‐based alluvial architecture modelling
+        * Spatial characteristics and kinematics of precession-driven floodplain aggradation cycles in the lower Eocene Willwood Formation of the Bighorn Basin, Wyoming
+        * Characterization of sandstone bodies and river styles in the lower Eocene Willwood Formation, Bighorn Basin, Wyoming, USA
+	* Predictable occurrences of channelized sandstone bodies of different fluvial styles linked to orbital climate forcing
+
 #  - title: Professor of Semiconductor Physics
 #    company: University X
 #    company_url: ''
