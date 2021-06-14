@@ -46,7 +46,7 @@ experience:
     location: Netherlands
     date_start: '2016-09-01'
     date_end: '2021-06-01'
-    description: |2-
+    description: 
         Responsibilities include:
 	* Evaluating alluvial stratigraphic response to upstream forcing through process‐based alluvial architecture modelling
         * Spatial characteristics and kinematics of precession-driven floodplain aggradation cycles in the lower Eocene Willwood Formation of the Bighorn Basin, Wyoming
@@ -54,5 +54,6 @@ experience:
 	* Predictable occurrences of channelized sandstone bodies of different fluvial styles linked to orbital climate forcing
 
 
-
+design:
+  columns: '2'
 ---
