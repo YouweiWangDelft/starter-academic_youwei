@@ -25,7 +25,7 @@ experience:
   - title: Researcher
     company: Delft University of Technology
     company_url: 'www.tudelft.nl'
-    company_logo: tu-delft-2
+    company_logo: TU_Delft
     location: Netherlands
     date_start: '2021-06-01'
     date_end: '2021-12-01'
