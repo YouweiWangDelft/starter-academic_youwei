@@ -54,6 +54,5 @@ experience:
 	* Predictable occurrences of channelized sandstone bodies of different fluvial styles linked to orbital climate forcing
 
 
-design:
-  columns: '2'
+
 ---
