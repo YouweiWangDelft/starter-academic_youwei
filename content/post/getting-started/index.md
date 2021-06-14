@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Youwei started his side project for Equinor
+subtitle: Welcome 👋 Here we list the main objective of this side project
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 Objectives are as follows
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-06-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-06-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,12 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
-- Demo
-- 教程
+- Academic
 ---
 
 ## Overview
