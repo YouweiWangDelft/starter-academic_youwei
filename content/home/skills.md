@@ -21,9 +21,21 @@ feature:
   icon_pack: fab
   name: Python
 - description: 80%
-  icon: matlab
+  icon: medium-m
   icon_pack: fab
   name: Matlab
+- description: 90%
+  icon: adobe
+  icon_pack: fas
+  name: Adobe
+- description: 90%
+  icon: linux
+  icon_pack: fas
+  name: Linux
+- description: 90%
+  icon: telegram-plane
+  icon_pack: fas
+  name: Drone operation
 - description: 60%
   icon: r-project
   icon_pack: fab
