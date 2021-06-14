@@ -14,7 +14,7 @@ organizations:
   url: https://www.tudelft.nl//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fluvial sedimentology and stratigraphy as well as extended interests into catchment and sink environments.
 
 # Interests to show in About widget
 interests:
