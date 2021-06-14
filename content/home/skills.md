@@ -26,15 +26,15 @@ feature:
   name: Matlab
 - description: 90%
   icon: adobe
-  icon_pack: fas
+  icon_pack: fab
   name: Adobe
 - description: 90%
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
 - description: 90%
   icon: telegram-plane
-  icon_pack: fas
+  icon_pack: fab
   name: Drone operation
 - description: 60%
   icon: r-project
@@ -46,7 +46,7 @@ feature:
   name: Statistics
 - description: 70%
   icon: git-square
-  icon_pack: fas
+  icon_pack: fab
   name: Git
 - description: 60%
   icon: camera-retro
