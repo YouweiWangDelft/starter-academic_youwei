@@ -29,10 +29,6 @@ address:
   postcode: '2611 RL'
   country: The Netherlands
   country_code: NL
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.958", longitude = "116.304"}
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Weekday 9:00 to 18:00 CET'
 
@@ -54,30 +50,6 @@ contact_links:
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
-
-############################
-## Maps
-############################
-[map]
-# To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-# and choose a map provider below.
-#
-# To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-#   https://developers.google.com/maps/documentation/javascript/get-api-key
-# To use OpenStreetMap tiles, set `engine` to 2.
-# To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
-#   https://www.mapbox.com/studio/account/tokens
-#
-# Map provider:
-#   0: No map
-#   1: Google Maps
-#   2: OpenStreetMap (Mapnik)
-#   3: OpenStreetMap (Mapbox)
-api_key = ""
-engine = 2
-zoom = 15
-
-
 
 # Site header
 
