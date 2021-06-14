@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
 - description: 80%
-  icon: fa-matlab
+  icon: matlab
   icon_pack: fab
   name: Matlab
 - description: 60%
@@ -32,6 +32,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 70%
+  icon: git-square
+  icon_pack: fas
+  name: Git
 - description: 60%
   icon: camera-retro
   icon_pack: fas
