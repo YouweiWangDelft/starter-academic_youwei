@@ -29,9 +29,9 @@ address:
   postcode: '2611 RL'
   country: The Netherlands
   country_code: NL
-#coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {latitude = "39.958", longitude = "116.304"}
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Weekday 9:00 to 18:00 CET'
