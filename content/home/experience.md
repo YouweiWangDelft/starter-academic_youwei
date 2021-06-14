@@ -37,6 +37,8 @@ experience:
         * Providing exploration advice on well deployment
         
 
+
+
   - title: PhD student
     company: Delft University of Technology
     company_url: 'www.tudelft.nl'
@@ -44,22 +46,7 @@ experience:
     location: Netherlands
     date_start: '2016-09-01'
     date_end: '2021-06-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Evaluating alluvial stratigraphic response to upstream forcing through process‐based alluvial architecture modelling
-        * Spatial characteristics and kinematics of precession-driven floodplain aggradation cycles in the lower Eocene Willwood Formation of the Bighorn Basin, Wyoming
-        * Characterization of sandstone bodies and river styles in the lower Eocene Willwood Formation, Bighorn Basin, Wyoming, USA
-	* Predictable occurrences of channelized sandstone bodies of different fluvial styles linked to orbital climate forcing
-
-#  - title: Professor of Semiconductor Physics
-#    company: University X
-#    company_url: ''
-#    company_logo: org-x
-#    location: California
-#    date_start: '2016-01-01'
-#    date_end: '2020-12-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
