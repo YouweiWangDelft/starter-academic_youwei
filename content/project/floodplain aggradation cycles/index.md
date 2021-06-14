@@ -1,8 +1,8 @@
 ---
-title: Numerical modelling of alluvial response to orbital climate forcing
-summary: An example of using the in-built project page.
+title: Floodplain aggradation cycles
+summary: In this project we explore the spatial consistency and variability of floodplain aggradation cycles.
 tags:
-- Numerical modelling
+- Outcrop analogue
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
