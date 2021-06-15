@@ -21,7 +21,7 @@ links:
 +++
 
 url_code: ""
-url_pdf: "example.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
