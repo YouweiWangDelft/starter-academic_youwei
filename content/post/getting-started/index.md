@@ -32,10 +32,10 @@ authors:
 - admin
 
 tags:
-- Academic
+- Subsurface case study
 
 categories:
-- Academic
+- Subsurface case study
 ---
 
 ## Overview
