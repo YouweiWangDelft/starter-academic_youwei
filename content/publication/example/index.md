@@ -37,7 +37,7 @@ abstract: Strikingly-developed paleosols have been extensively reported in the a
 # Summary. An optional shortened abstract.
 summary: trikingly-developed paleosols have been extensively reported in the alluvial floodplain stratigraphy of the Willwood Formation, Bighorn Basin, Wyoming.
 
-tags: []
+tags: [Outcrop analogue]
 
 # Display this page in the Featured widget?
 featured: true
