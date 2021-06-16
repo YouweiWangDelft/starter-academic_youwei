@@ -17,7 +17,7 @@ author_notes:
 
 
 date: "2021-04-02T00:00:00Z"
-doi: "https://doi.org/10.1111/bre.12454"
+doi: https://doi.org/10.1111/bre.12454
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -42,9 +42,9 @@ tags: [Outcrop analogue]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: An animation
+   url: https://twitter.com/YouweiWANG3/status/1206147553944834048
 
 url_pdf: ''
 url_code: ''
