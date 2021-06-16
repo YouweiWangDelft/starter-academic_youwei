@@ -1,6 +1,6 @@
 ---
-title: Fluvial cyclostratigraphy
-summary: In this project we investigate the occurrence and distribution of sandstone bodies of different origins in the stratigraphic context.
+title: Subsurface study
+summary: In this project we characterize the sandstone bodies and classify them into corresponding river styles.
 tags:
 - Outcrop analogue
 date: "2016-04-27T00:00:00Z"
@@ -12,14 +12,11 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/YouweiWANG3
-
-
 url_code: ""
 url_pdf: ""
 url_slides: ""

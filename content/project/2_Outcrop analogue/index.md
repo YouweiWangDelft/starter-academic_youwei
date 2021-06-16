@@ -1,6 +1,6 @@
 ---
-title: Fluvial sedimentology
-summary: In this project we characterize the sandstone bodies and classify them into corresponding river styles.
+title: Outcrop analog
+summary: In this project we explore the spatial consistency and variability of floodplain aggradation cycles.
 tags:
 - Outcrop analogue
 date: "2016-04-27T00:00:00Z"
