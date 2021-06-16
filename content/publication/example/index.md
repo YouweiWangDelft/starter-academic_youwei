@@ -46,9 +46,9 @@ tags: [Paleosol]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: IAS presentation on Youtube
-   url: https://www.youtube.com/watch?v=BEEhlhMXA9I
+links:
+- name: IAS presentation on Youtube
+  url: https://www.youtube.com/watch?v=BEEhlhMXA9I
 
 url_pdf: ''
 url_code: ''
