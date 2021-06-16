@@ -1,24 +1,28 @@
 ---
 title: Example Talk
 
-event: IAS 2021 Prague
-event_url: https://www.iasprague2021.com/
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Prague, Czech Republic
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-
-
-summary: Here I present how to trace paleosols as boundaries of floodplain aggradation cycles and how to post-process the data geostatistically.
-abstract: "Strikingly-developed paleosols have been extensively reported in the alluvial floodplain stratigraphy of the Willwood Formation, Bighorn Basin, Wyoming. They result from strong pedogenesis on the floodplain fines during the long, channel-stability overbank phases. Stratigraphic alternations between the overbank phase and the avulsion phase featuring weak pedogenesis on heterolithic sandy avulsion-belt deposits, are demonstrated to be driven by orbital climate forcing based on 1D cyclostratigraphic analysis. Given that the floodplain aggradation cycles can be influenced by both allogenic forcing and autogenic processes, it is crucial to reveal its lateral persistency and variability so as to disentangle the interaction between allogenic and autogenic factors over spatial and temporal scales. We here trace paleosoil beds laterally in a 3D, fully-georeferenced UAV-based photogrammetry-model that covers an area of ~10 km2 and straddles a stratigraphy of ~300 m. This model is integrated with detailed sedimentary logs produced in trenched sections to document the lateral persistency and variability of paleosol-bounded floodplain aggradation cycles. There are a total of 44 cycles with an average thickness of 6.8 m. We comprehensively analyse seven successive cycles that show an average thickness range from 3.7 to 9.7 m and a standard deviation of 1.0 to 2.5 m. Variogram analysis reveals that the thickness of a cycle at one locality is related to that at another locality over a maximum distance of 1.1-1.6 km roughly in the paleoflow direction and 0.2-0.7 km perpendicular to the paleoflow direction. We suggest that this is related to morphodynamic features of the fluvial system that are more continuous in the paleoflow direction. Compensational stacking of vertically adjacent cycles seems to occur within the duration of three successive cycles and full compensation is achieved after more than five cycles are deposited. Relationships between paleosols and associated channel-belt deposits are to be analysed in order to reveal the corresponding sedimentary environment and possible paleoclimate."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-21T13:45:00Z"
-date_end: "2021-06-21T14:00:00Z"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-06-16T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -27,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Front page'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
- -icon: youtube
+- icon: twitter
   icon_pack: fab
-  name: Youtube video
-  url: https://www.youtube.com/watch?v=BEEhlhMXA9I
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -45,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#   slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -56,4 +60,14 @@ projects:
 - example
 ---
 
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
