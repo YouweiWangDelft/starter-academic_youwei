@@ -17,7 +17,7 @@ author_notes:
 
 
 date: "2021-04-02T00:00:00Z"
-doi: https://doi.org/10.1111/bre.12454
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Basin Research*
-publication_short: In *IAS Conference*
+publication_short: In *Basin Research*
 
 abstract: The formation of alluvial stratigraphy is controlled by autogenic processes that mix their imprints with allogenic forcing. In some alluvial successions, sedimentary cycles have been linked to astronomically-driven, cyclic climate changes. However, it remains challenging to define how such cyclic allogenic forcing leads to sedimentary cycles when it continuously occurs in concert with autogenic forcing. Accordingly, we evaluate the impact of cyclic and non-cyclic upstream forcing on alluvial stratigraphy through a process-based alluvial architecture model, the Karssenberg and Bridge (2008) model (KB08). The KB08 model depicts diffusion-based sediment transport, erosion and deposition within a network of channel belts and associated floodplains, with river avulsion dependent on lateral floodplain gradient, flood magnitude and frequency, and stochastic components. We find cyclic alluvial stratigraphic patterns to occur when there is cyclicity in the ratio of sediment supply over water discharge (Qs/Qw ratio), in the precondition that the allogenic forcing has sufficiently large amplitudes and long, but not very long, wavelengths, depending on inherent properties of the modelled basin (e.g. basin subsidence, size, and slope). Each alluvial stratigraphic cycle consists of two phases: an aggradation phase characterized by rapid sedimentation due to frequent channel shifting and a non-deposition phase characterized by channel belt stability and, depending on Qs/Qw amplitudes, incision. Larger Qs/Qw ratio amplitudes contribute to weaker downstream signal shredding by stochastic components in the model. Floodplain topographic differences are found to be compensated by autogenic dynamics at certain compensational timescales in fully autogenic runs, while the presence of allogenic forcing clearly impacts the compensational stacking patterns. 
 
@@ -42,9 +42,9 @@ tags: [Outcrop analogue]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: An animation
-   url: https://twitter.com/YouweiWANG3/status/1206147553944834048
+# links:
+# - name: An animation
+#   url: https://twitter.com/YouweiWANG3/status/1206147553944834048
 
 url_pdf: ''
 url_code: ''
