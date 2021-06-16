@@ -5,7 +5,8 @@ event: IAS 2021 Prague
 event_url: https://www.iasprague2021.com/
 
 location: Prague, Czech Republic
-address:
+
+
 
 
 summary: Here I present how to trace paleosols as boundaries of floodplain aggradation cycles and how to post-process the data geostatistically.
