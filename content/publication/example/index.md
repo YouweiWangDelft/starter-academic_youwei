@@ -1,5 +1,5 @@
 ---
-title: "Tracing paleosols in a UAV-based photogrammetry model of the alluvial stratigraphy in the Bighorn Basin, Wyoming"
+title: "Spatial characteristics and kinematics of precession-driven floodplain aggradation cycles in the lower Eocene Willwood Formation of the Bighorn Basin, Wyoming, USA"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,6 +9,9 @@ authors:
 - Timothy Baars
 - Joep Storms
 - Allard Martinius
+- Philip Gingerich
+- Magda Chmielewska
+- Simon Buckley
 - Hemmo Abels
 
 # Author notes (optional)
@@ -20,7 +23,7 @@ date: "2021-06-21T00:00:00Z"
 doi: "https://doi.org/10.31223/X5931M"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +48,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://www.youtube.com/watch?v=BEEhlhMXA9I
 
 url_pdf: ''
 url_code: ''
@@ -80,12 +83,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
